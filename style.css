@@ -8,3 +8,11 @@ p {
 button {
     background-color: orange;
 }
+
+table {
+    border: 1px solid gray;
+}
+
+td {
+    border: 1px solid gray;
+}
