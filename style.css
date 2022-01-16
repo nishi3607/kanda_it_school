@@ -1,4 +1,10 @@
 p {
-    background-color: orange;
+    background-color: blue;
     color: #ffffff;
+    font-size: 24px;
+    width: 350px;
+}
+
+button {
+    background-color: orange;
 }
